@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 946c81dff0582b343bca2338b1a3099d
+timeCreated: 1523358521
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: //RootNode
+    100004: Bone.002
+    100006: Bone.003
+    100008: Camera
+    100010: Chest
+    100012: Ground
+    100014: Hat
+    100016: Head
+    100018: Head 1
+    100020: Kasaya
+    100022: Left Back Foot
+    100024: Left Front Foot
+    100026: Left_Arm
+    100028: Left_Eye
+    100030: Left_Foot
+    100032: LeftCalf
+    100034: LeftForeArm
+    100036: LeftLowerIndex
+    100038: LeftLowerLittle
+    100040: LeftLowerMiddle
+    100042: LeftLowerSleeve
+    100044: LeftLowerThumb
+    100046: LeftShoulder
+    100048: LeftThigh
+    100050: LeftUpperArm
+    100052: LeftUpperIndex
+    100054: LeftUpperLittle
+    100056: LeftUpperMiddle
+    100058: LeftUpperThumb
+    100060: LeftWaist
+    100062: MonkBirdMesh
+    100064: Neck
+    100066: Point
+    100068: Right Back Foot
+    100070: Right Front Foot
+    100072: Right_Arm
+    100074: Right_Eye
+    100076: Right_Leg
+    100078: RightCalf
+    100080: RIghtLowerArm
+    100082: RightLowerIndex
+    100084: RightLowerLittle
+    100086: RightLowerMiddle
+    100088: RightLowerSleeve
+    100090: RightLowerThumb
+    100092: RightShoulder
+    100094: RightThigh
+    100096: RightUpperArm
+    100098: RIghtUpperIndex
+    100100: RightUpperLittle
+    100102: RightUpperMiddle
+    100104: RightUpperThumb
+    100106: RightWaist
+    100108: Stomach
+    100110: Sun
+    400000: Armature
+    400002: //RootNode
+    400004: Bone.002
+    400006: Bone.003
+    400008: Camera
+    400010: Chest
+    400012: Ground
+    400014: Hat
+    400016: Head
+    400018: Head 1
+    400020: Kasaya
+    400022: Left Back Foot
+    400024: Left Front Foot
+    400026: Left_Arm
+    400028: Left_Eye
+    400030: Left_Foot
+    400032: LeftCalf
+    400034: LeftForeArm
+    400036: LeftLowerIndex
+    400038: LeftLowerLittle
+    400040: LeftLowerMiddle
+    400042: LeftLowerSleeve
+    400044: LeftLowerThumb
+    400046: LeftShoulder
+    400048: LeftThigh
+    400050: LeftUpperArm
+    400052: LeftUpperIndex
+    400054: LeftUpperLittle
+    400056: LeftUpperMiddle
+    400058: LeftUpperThumb
+    400060: LeftWaist
+    400062: MonkBirdMesh
+    400064: Neck
+    400066: Point
+    400068: Right Back Foot
+    400070: Right Front Foot
+    400072: Right_Arm
+    400074: Right_Eye
+    400076: Right_Leg
+    400078: RightCalf
+    400080: RIghtLowerArm
+    400082: RightLowerIndex
+    400084: RightLowerLittle
+    400086: RightLowerMiddle
+    400088: RightLowerSleeve
+    400090: RightLowerThumb
+    400092: RightShoulder
+    400094: RightThigh
+    400096: RightUpperArm
+    400098: RIghtUpperIndex
+    400100: RightUpperLittle
+    400102: RightUpperMiddle
+    400104: RightUpperThumb
+    400106: RightWaist
+    400108: Stomach
+    400110: Sun
+    2000000: Camera
+    2100000: Material_001
+    2100002: Material_007
+    2100004: Material
+    2100006: Material_005
+    2100008: Material_006
+    2100010: Material_010
+    2100012: Material_011
+    2100014: Head_Color
+    2100016: Beak
+    2100018: Eye_Color
+    2100020: Material_022
+    2100022: Material_021
+    2100024: Material_003
+    2100026: Material_002
+    2100028: Material_017
+    2300000: Ground
+    3300000: Ground
+    4300000: MonkBirdMesh
+    4300002: Head
+    4300004: Left_Eye
+    4300006: Right_Eye
+    4300008: Hat
+    4300010: Right_Leg
+    4300012: Left_Foot
+    4300014: Kasaya
+    4300016: Right_Arm
+    4300018: Left_Arm
+    4300020: Ground
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: Point
+    10800002: Sun
+    13700000: Hat
+    13700002: Head
+    13700004: Kasaya
+    13700006: Left_Arm
+    13700008: Left_Eye
+    13700010: Left_Foot
+    13700012: MonkBirdMesh
+    13700014: Right_Arm
+    13700016: Right_Eye
+    13700018: Right_Leg
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
